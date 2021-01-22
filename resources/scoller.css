@@ -1,0 +1,63 @@
+ .viewport {
+     -fx-background-color: #5BA8A0;
+ }
+
+ .scroll-bar:horizontal {
+     -fx-background-color: transparent;
+ }
+
+ .scroll-bar:horizontal:focused {
+     -fx-background-color: transparent;
+ }
+
+ .scroll-bar:vertical {
+     -fx-background-color: transparent;
+ }
+
+ .scroll-bar:vertical:focused {
+     -fx-background-color: transparent;
+ }
+
+ .scroll-bar:horizontal .thumb {
+     -fx-background-color: transparent;
+ }
+
+ .scroll-bar:vertical .thumb {
+     -fx-background-color: transparent;
+ }
+
+ .scroll-bar:focused .thumb {
+     -fx-background-color: transparent;
+ }
+
+ .scroll-bar .thumb:hover {
+     -fx-color: -fx-hover-base;
+ }
+
+ .scroll-bar:horizontal .track {
+     -fx-background-color: transparent;
+ }
+
+ .scroll-bar:horizontal .track-background {
+     -fx-background-color: transparent;
+ }
+
+ .scroll-bar:vertical .track {
+     visibility: hidden;
+ }
+
+ .scroll-bar:vertical .track-background {
+     visibility: hidden;
+ }
+
+ .scroll-bar .increment-button {
+     visibility: hidden;
+ }
+
+ .scroll-bar .decrement-button {
+     visibility: hidden;
+ }
+
+ .scroll-bar:disabled {
+     -fx-opacity: -fx-disabled-opacity;
+ }
