@@ -25,7 +25,9 @@ using the JavaFX to develop the video rental system
 -First step download from here -> https://github.com/YeongCC/VideoRentalSystem/archive/main.zip
 
 -Second step download the Video from here -> https://drive.google.com/drive/folders/1WviEeGcepOJwRkmSoVUCOYcM-vLpRfQ1?usp=sharing
+  !!attetion!!
+  The video must download all if not will error!
 
--Third step put Video file to the -> VideoRentalSystem/resources/movie_video/
+-Third step take all the video put in the file location -> VideoRentalSystem/resources/movie_video/
 
 -Fouth step open the netbean file then you can se it
