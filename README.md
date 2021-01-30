@@ -34,3 +34,7 @@ using the JavaFX to develop the video rental system
 - Third step take all the video put in the file location -> VideoRentalSystem/resources/movie_video/
 
 - Fouth step open the netbean file then you can se it
+
+##### User
+- User account : User
+- Password : 123123 
