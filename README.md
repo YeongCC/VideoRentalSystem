@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/YeongCC/VideoRentalSystem"><img src="VideoRentalSystem/resources/small.png" alt="Forks Badge"/></a>
+  <a href="https://github.com/YeongCC/VideoRentalSystem"><img src="resources/small.png" alt="Forks Badge"/></a>
 </div>
 <br />
 
