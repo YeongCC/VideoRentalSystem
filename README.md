@@ -6,19 +6,23 @@
 </div>
 <br />
 
-first you need regiwster account 
-second you need to login
-third you can be a member
-member got discount example
-rent got 40% discount
-buy got 30% discount
-buy only can buy one time 
-rent can always repeating rent 
-if you not member yet system will ask you want to apply membership
-if you less money system will ask you relod money first 
-you can search the movie by search bar it will caome what you search
-when you buy or rent the movie it will appear a button which call "PlAY", when you select you can select you choice and it play Movie 
-In your profile you can update your information
-In history you can watch you paying history
-So please enjoy it ! ! !
+## About The Project
 
+This is a Online Video Rental System that build for make the user can rent or buy the movie more convienient and simple. 
+
+By developing this project, we can achieve the objective below
+-	Reduce order time
+-	Make it more convenience 
+-	Increases the overall productivity
+
+using the JavaFX to develop the video rental system
+
+### Requirement Software
+-Neatbean (better version is 8.2RC)
+-JDK (better version is jdk-8u111-nb-8_2-windows-x64)
+
+#### How to install
+-First step download from here -> https://github.com/YeongCC/VideoRentalSystem/archive/main.zip
+-Second step download the Video from here -> https://drive.google.com/drive/folders/1WviEeGcepOJwRkmSoVUCOYcM-vLpRfQ1?usp=sharing
+-Third step put Video file to the -> VideoRentalSystem/resources/movie_video/
+-Fouth step open the netbean file then you can se it
