@@ -1,2 +1,16 @@
+The Amount MYR 0.0
+Reload MYR 100.0
+Amount left 100.0
+Date : Fri Jan 22 19:14:27 SGT 2021
+___________________________________________________________________
+
+Amount : MYR100.00
+Movie Name : IP MAN4
+Movie Quality : Standard Definition
+Price : MYR 35.00
+Amount left : MYR65.00
+Buy Date : Fri Jan 22 19:14:35 SGT 2021
+___________________________________________________________________
+
 
 
