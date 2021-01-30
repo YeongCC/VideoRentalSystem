@@ -1,4 +1,12 @@
 # VideoRentalSystem
+
+<br />
+<div align="center">
+  <a href="https://github.com/YeongCC/VideoRentalSystem"><img src="https://github.com/YeongCC/VideoRentalSystem/blob/main/resources/small.png" alt="Forks Badge"/></a>
+  <a href="https://github.com/YeongCC/VideoRentalSystem"><img alt="GitHub contributors" src="https://github.com/YeongCC/VideoRentalSystem/blob/main/resources/small.png"></a>
+</div>
+<br />
+
 first you need regiwster account 
 second you need to login
 third you can be a member
