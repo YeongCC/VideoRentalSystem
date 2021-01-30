@@ -19,6 +19,7 @@ using the JavaFX to develop the video rental system
 
 ### Requirement Software
 -Neatbean (better version is 8.2RC)
+
 -JDK (better version is jdk-8u111-nb-8_2-windows-x64)
 
 #### How to install
