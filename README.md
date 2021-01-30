@@ -35,6 +35,6 @@ using the JavaFX to develop the video rental system
 
 - Fouth step open the netbean file then you can se it
 
-##### User
+##### Account
 - User account : User
 - Password : 123123 
